@@ -1,0 +1,39 @@
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBaba_ModifiedWithSolutionPath\bin\Debug\AliBabaAndNHouses.exe.config
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBaba_ModifiedWithSolutionPath\bin\Debug\input.txt
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBaba_ModifiedWithSolutionPath\bin\Debug\samples.txt
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBaba_ModifiedWithSolutionPath\bin\Debug\AliBabaAndNHouses.exe
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBaba_ModifiedWithSolutionPath\bin\Debug\AliBabaAndNHouses.pdb
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBaba_ModifiedWithSolutionPath\obj\Debug\AliBabaAndNHouses.exe
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBaba_ModifiedWithSolutionPath\obj\Debug\AliBabaAndNHouses.pdb
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe.config
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.exe
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.pdb
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBabaAndNHouses\bin\Debug\input.txt
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBabaAndNHouses\bin\Debug\samples.txt
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBaba_ModifiedWithSolutionPath\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.pdb
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe.config
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.exe
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.pdb
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\input.txt
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\samples.txt
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.pdb
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Solution\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.csprojResolveAssemblyReference.cache
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Template\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe.config
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Template\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.exe
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Template\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.pdb
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Template\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\input.txt
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Template\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\samples.txt
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Template\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Template\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.pdb
+E:\CLOUD FOLDERS\Dropbox\[Ghada] AliBaba\ModifiedVersionWithTheChosenHouses\Template\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.csprojResolveAssemblyReference.cache
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\input.txt
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\samples.txt
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe.config
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.exe
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\bin\Debug\AliBabaAndNHouses.pdb
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.csproj.CoreCompileInputs.cache
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.exe
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.pdb
+D:\Year 2 Semester 2\Algorithms\ASM4\Ali Baba and N Houses\AliBabaAndNHouses\AliBabaAndNHouses\obj\Debug\AliBabaAndNHouses.csproj.AssemblyReference.cache
